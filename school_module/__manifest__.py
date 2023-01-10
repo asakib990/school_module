@@ -23,7 +23,9 @@
 
     # always loaded
     'data': [
-        
+        'security/ir.model.access.csv',
+        'views/student.xml',
+        'views/menus.xml',
     ],
     "installation": True,
     "auto_install": True,
